@@ -1075,7 +1075,7 @@ public final class Simulator {
 						}
 					}
 				}
-				player.blackMarket.add(ii);
+				player.blackMarket.add(iii);
 			}
 		}
 	}
